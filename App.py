@@ -9,7 +9,6 @@ st.set_page_config(
 )
 
 st.title("Tablero para dibujar")
-image = Image.open('ninodibuj.jpg')
 
 with st.sidebar:
     st.subheader("customizar el Tablero")
